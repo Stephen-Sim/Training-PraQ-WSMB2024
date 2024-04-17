@@ -1,0 +1,14 @@
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfoInputs.cache
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.AssemblyInfo.cs
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.exe
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.deps.json
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.runtimeconfig.json
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.dll
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\bin\Debug\net6.0\CSharpBasic.pdb
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.dll
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\refint\CSharpBasic.dll
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.pdb
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\CSharpBasic.genruntimeconfig.cache
+C:\Users\simsh\Desktop\.Net Test\CSharpBasic\CSharpBasic\obj\Debug\net6.0\ref\CSharpBasic.dll
