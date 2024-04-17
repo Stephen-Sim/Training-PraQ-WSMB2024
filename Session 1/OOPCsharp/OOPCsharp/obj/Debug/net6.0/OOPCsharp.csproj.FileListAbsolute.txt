@@ -1,0 +1,14 @@
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\bin\Debug\net6.0\OOPCsharp.exe
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\bin\Debug\net6.0\OOPCsharp.deps.json
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\bin\Debug\net6.0\OOPCsharp.runtimeconfig.json
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\bin\Debug\net6.0\OOPCsharp.dll
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\bin\Debug\net6.0\OOPCsharp.pdb
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.AssemblyInfoInputs.cache
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.AssemblyInfo.cs
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.csproj.CoreCompileInputs.cache
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.dll
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\refint\OOPCsharp.dll
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.pdb
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\OOPCsharp.genruntimeconfig.cache
+C:\Users\simsh\Desktop\.Net Test\OOPCsharp\OOPCsharp\obj\Debug\net6.0\ref\OOPCsharp.dll

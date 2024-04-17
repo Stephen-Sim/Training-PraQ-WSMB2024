@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|c:\\users\\simsh\\desktop\\.net test\\oopcsharp\\oopcsharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|solutionrelative:oopcsharp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|c:\\users\\simsh\\desktop\\.net test\\oopcsharp\\oopcsharp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|solutionrelative:oopcsharp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|c:\\users\\simsh\\desktop\\.net test\\oopcsharp\\oopcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE3C052-0142-4C8F-82B7-C36688A7A13C}|OOPCsharp\\OOPCsharp.csproj|solutionrelative:oopcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Student.cs",
+              "RelativeDocumentMoniker": "OOPCsharp\\Student.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Student.cs",
+              "RelativeToolTip": "OOPCsharp\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:46:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Person.cs",
+              "RelativeDocumentMoniker": "OOPCsharp\\Person.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Person.cs",
+              "RelativeToolTip": "OOPCsharp\\Person.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:43:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "OOPCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\.Net Test\\OOPCsharp\\OOPCsharp\\Program.cs",
+              "RelativeToolTip": "OOPCsharp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:28:36.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
