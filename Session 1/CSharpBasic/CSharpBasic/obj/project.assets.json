@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
+      "projectUniqueName": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
       "projectName": "CSharpBasic",
-      "projectPath": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
+      "projectPath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\CSharpBasic\\CSharpBasic.csproj",
       "packagesPath": "C:\\Users\\simsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\CSharpBasic\\obj\\",
+      "outputPath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\CSharpBasic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

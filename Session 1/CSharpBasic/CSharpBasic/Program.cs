@@ -121,3 +121,23 @@ int sum(int a, int b)
 {
     return a + b;
 }
+
+int passbyRef(ref int x)
+{
+    return x++;
+}
+
+int passbyRefOut(out int x)
+{
+    x = 100;
+    return x;
+}
+
+int y = 10;
+
+passbyRef(ref y);
+
+int num9;
+passbyRefOut(out num9);
+
+passbyRefOut(out int num10);

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\",
+  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1414729-95FB-447B-AF51-BC3E995F0CFD}|CSharpBasic\\CSharpBasic.csproj|c:\\users\\simsh\\desktop\\.net test\\csharpbasic\\csharpbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1414729-95FB-447B-AF51-BC3E995F0CFD}|CSharpBasic\\CSharpBasic.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 1\\csharpbasic\\csharpbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1414729-95FB-447B-AF51-BC3E995F0CFD}|CSharpBasic\\CSharpBasic.csproj|solutionrelative:csharpbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\CSharpBasic\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\CSharpBasic\\Program.cs",
               "RelativeDocumentMoniker": "CSharpBasic\\Program.cs",
-              "ToolTip": "C:\\Users\\simsh\\Desktop\\.Net Test\\CSharpBasic\\CSharpBasic\\Program.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 1\\CSharpBasic\\CSharpBasic\\Program.cs",
               "RelativeToolTip": "CSharpBasic\\Program.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAGIAAAAOAAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAI4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T06:56:11.455Z",
               "EditorCaption": ""
