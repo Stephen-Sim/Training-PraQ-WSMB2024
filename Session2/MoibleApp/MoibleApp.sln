@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoibleApp.Android", "MoibleApp\MoibleApp.Android\MoibleApp.Android.csproj", "{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoibleApp", "MoibleApp\MoibleApp\MoibleApp.csproj", "{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA3DF38-EB0A-435A-A202-8C83D2D9710B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB543E6-D482-4E96-A513-BF91135FB0BD}
+	EndGlobalSection
+EndGlobal

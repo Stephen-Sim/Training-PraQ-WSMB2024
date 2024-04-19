@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session2\\moibleapp\\moibleapp\\moibleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|solutionrelative:moibleapp\\moibleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session2\\moibleapp\\moibleapp\\moibleapp\\views\\userlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|solutionrelative:moibleapp\\moibleapp\\views\\userlistpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session2\\moibleapp\\moibleapp\\moibleapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|solutionrelative:moibleapp\\moibleapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session2\\moibleapp\\moibleapp\\moibleapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDB29FE-914E-4D16-B2B6-1F00EAAD7200}|MoibleApp\\MoibleApp\\MoibleApp.csproj|solutionrelative:moibleapp\\moibleapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\Views\\UserListPage.xaml",
+              "RelativeDocumentMoniker": "MoibleApp\\MoibleApp\\Views\\UserListPage.xaml",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\Views\\UserListPage.xaml",
+              "RelativeToolTip": "MoibleApp\\MoibleApp\\Views\\UserListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T08:53:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MoibleApp\\MoibleApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\MainPage.xaml.cs*",
+              "RelativeToolTip": "MoibleApp\\MoibleApp\\MainPage.xaml.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:43:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MoibleApp\\MoibleApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\MainPage.xaml",
+              "RelativeToolTip": "MoibleApp\\MoibleApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T08:28:24.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MoibleApp\\MoibleApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp\\App.xaml.cs",
+              "RelativeToolTip": "MoibleApp\\MoibleApp\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:27:56.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

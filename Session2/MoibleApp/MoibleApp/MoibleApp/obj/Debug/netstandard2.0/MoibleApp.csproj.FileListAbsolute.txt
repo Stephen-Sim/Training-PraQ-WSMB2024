@@ -1,0 +1,17 @@
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\bin\Debug\netstandard2.0\MoibleApp.deps.json
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\bin\Debug\netstandard2.0\MoibleApp.dll
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\bin\Debug\netstandard2.0\ref\MoibleApp.dll
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\bin\Debug\netstandard2.0\MoibleApp.pdb
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.csproj.AssemblyReference.cache
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.AssemblyInfoInputs.cache
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.AssemblyInfo.cs
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.csproj.CoreCompileInputs.cache
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.sourcelink.json
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.dll
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\refint\MoibleApp.dll
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\MoibleApp.pdb
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp\obj\Debug\netstandard2.0\Views\UserListPage.xaml.g.cs
