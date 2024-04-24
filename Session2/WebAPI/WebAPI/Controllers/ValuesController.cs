@@ -33,6 +33,26 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet]
+        public object Login(string username, string password)
+        {
+            var user = ent.Users.FirstOrDefault(x => x.Username == username && x.Password == password );
+
+            if (user == null)
+            {
+                return BadRequest();
+            }
+
+            return Ok(new
+            {
+                user.ID,
+                user.Username,
+                FullName = user.FirstName + " " + user.LastName,
+                user.Age,
+                Role = user.Role.Name
+            });
+        }
+
+        [HttpGet]
         public object GetUser(int Id)
         {
             var user = ent.Users.Select(x => new
@@ -138,16 +158,28 @@ namespace WebAPI.Controllers
             }
         }
 
+        [HttpGet]
+        public object GetRoles()
+        {
+            var roles = ent.Roles.ToList().Select(x => new
+            {
+                x.ID,
+                x.Name
+            });
+
+            return Ok(roles);
+        }
+
         public class UserDTO
         {
             public long ID { get; set; }
             public string Username { get; set; }
             public string FirstName { get; set; }
-            public string LastName { get; set; }
-            public string Password { get; set; }
-            public int Age { get; set; }
-            public bool Gender { get; set; }
-            public long RoleID { get; set; }
+            public string LastName { get; set; } 
+            public string Password { get; set; } // hash
+            public int Age { get; set; } // entry numeric value
+            public bool Gender { get; set; }// radio button
+            public long RoleID { get; set; } // combo box
         }
     }
 }

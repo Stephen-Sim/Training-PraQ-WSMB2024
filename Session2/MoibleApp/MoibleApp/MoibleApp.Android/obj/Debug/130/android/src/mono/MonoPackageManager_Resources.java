@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"MoibleApp.Android.dll",
 		"FormsViewGroup.dll",
 		"MoibleApp.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

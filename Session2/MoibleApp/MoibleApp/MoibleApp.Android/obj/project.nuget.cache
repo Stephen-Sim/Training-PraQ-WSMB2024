@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WXygUab/75+n1EHl3oviDEiuOcQgNQ38v3SwR5VXyEHPuTHw5JCNYK8Xh6ZXOkP3QHqfiF7d76nvqmNYy3rXMQ==",
+  "dgSpecHash": "qJ32D83Wjo9GsU/BAex5Ko2ZNXiI00huiHCJZRXtlJ4ykMVMW0BXEeGx+R6nQ2jY7xJi++fGvCe7awfWa7lb2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session2\\MoibleApp\\MoibleApp\\MoibleApp.Android\\MoibleApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\simsh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\simsh\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

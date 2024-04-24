@@ -1,12 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MoibleApp.Views.UserListPage">
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:models="clr-namespace:MoibleApp.Models"
+             x:Class="MoibleApp.Views.UserListPage" Title="User List Page">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Margin="5">
+            <Label x:Name="usernameLabel"/>
+
+            <ListView x:Name="lv" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="models:User">
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <StackLayout HeightRequest="100">
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Full Name:"/>
+                                        <Label Text="{Binding FullName}"/>
+                                    </StackLayout>
+
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Age: "/>
+                                                <Span Text="{Binding Age}"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                </StackLayout>
+
+                                <StackLayout HorizontalOptions="EndAndExpand" Orientation="Horizontal">
+                                    <ImageButton Source="pencil" BackgroundColor="Transparent" VerticalOptions="CenterAndExpand" HeightRequest="30" WidthRequest="30"/>
+                                    <ImageButton Clicked="ImageButton_Clicked" CommandParameter="{Binding .}" Source="delete" BackgroundColor="Transparent" VerticalOptions="CenterAndExpand" HeightRequest="30" WidthRequest="30"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Button Clicked="Button_Clicked" Text="+" FontSize="30" HeightRequest="80" WidthRequest="80" CornerRadius="50" HorizontalOptions="End"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

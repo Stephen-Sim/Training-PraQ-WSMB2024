@@ -84,7 +84,10 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\delete.png" />
+    <AndroidResource Include="Resources\drawable\pencil.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MoibleApp\MoibleApp.csproj">
       <Project>{574F1A5E-6E8B-41B5-AE86-2FCA50BB964E}</Project>

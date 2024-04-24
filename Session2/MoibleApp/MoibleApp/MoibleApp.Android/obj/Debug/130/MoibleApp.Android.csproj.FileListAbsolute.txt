@@ -637,3 +637,6 @@ C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\Moibl
 C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\res\drawable\logo.png
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\res\drawable\delete.png
+C:\Users\simsh\Desktop\Training-PraQ-WSMB2024\Session2\MoibleApp\MoibleApp\MoibleApp.Android\obj\Debug\130\res\drawable\pencil.png
