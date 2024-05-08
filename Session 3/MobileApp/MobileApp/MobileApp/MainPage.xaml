@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.MainPage" Title="Owner / Manager App">
+
+    <StackLayout Margin="5" VerticalOptions="Center">
+        <Frame BorderColor="Black" BackgroundColor="Transparent">
+            <Label VerticalOptions="Center" HorizontalOptions="Center" Text="Logo" FontSize="50"/>    
+        </Frame>
+
+        <Label Text="Please login to the system"/>
+
+        <Grid ColumnDefinitions="*, 3*" RowDefinitions="50, 50, 50">
+            <Label Text="Username: " VerticalOptions="Center"/>
+            <Entry x:Name="usernameEntry" Grid.Column="1"/>
+
+            <Label Text="Password: " Grid.Row="1" VerticalOptions="Center"/>
+            <Entry x:Name="passwordEntry" IsPassword="True" Grid.Column="1" Grid.Row="1"/>
+
+            <Button Clicked="Button_Clicked" Grid.Row="2" Grid.Column="1" Text="Login"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

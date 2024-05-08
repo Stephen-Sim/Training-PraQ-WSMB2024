@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:models="clr-namespace:MobileApp.Models"
+             x:Class="MobileApp.Views.ListingPage" Title="Your Listing:">
+    <ContentPage.Content>
+        <StackLayout Margin="5">
+            <ListView x:Name="lv" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="models:Listing">
+                        <ViewCell>
+                            <Frame Margin="5" BorderColor="Black" BackgroundColor="Transparent">
+
+                                <Grid ColumnDefinitions="*, 3*, 0.5*" RowDefinitions="80">
+                                    <Frame CornerRadius="50" Margin="0" Padding="0" HeightRequest="60" WidthRequest="60" BackgroundColor="Gray" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                                    <StackLayout Grid.Column="1" VerticalOptions="Center">
+                                        <Label Text="{Binding Name}" FontSize="18"/>
+                                        <Label Text="{Binding LastDateInfo}" TextColor="{Binding Color}"/>
+                                    </StackLayout>
+
+                                    <Button Clicked="Button_Clicked_1" CommandParameter="{Binding .}" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" CornerRadius="50" Margin="0" Padding="0" HeightRequest="40" WidthRequest="40" Text="$" Grid.Column="2"/>
+                                </Grid>
+                            </Frame>
+                        </ViewCell> 
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+            <Button Clicked="Button_Clicked" Text="log out" VerticalOptions="EndAndExpand" HorizontalOptions="End"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

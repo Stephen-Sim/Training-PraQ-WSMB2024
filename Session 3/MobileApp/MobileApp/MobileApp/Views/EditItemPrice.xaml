@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileApp.Views.EditItemPrice">
+    <ContentPage.Content>
+        <StackLayout Margin="5" VerticalOptions="Center">
+            <Grid RowDefinitions="50" ColumnDefinitions="1.5*, *, 2*">
+                <Label x:Name="dateLabel" VerticalOptions="Center"/>
+                <Entry x:Name="priceEntry" Keyboard="Numeric" Grid.Column="1"/>
+                <Picker x:Name="rulePicker" Title="Select the rule" Grid.Column="2"/>
+            </Grid>
+
+            <Button Text="Edit" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

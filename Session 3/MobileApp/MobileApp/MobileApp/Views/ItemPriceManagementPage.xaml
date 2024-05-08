@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:models="clr-namespace:MobileApp.Models"
+             x:Class="MobileApp.Views.ItemPriceManagementPage" NavigationPage.HasBackButton="False">
+    <ContentPage.Content>
+        <StackLayout Margin="5">
+            <ListView x:Name="lv" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="models:ItemPrice">
+                        <ViewCell>
+                            <SwipeView>
+                                
+                                <SwipeView.LeftItems>
+                                    <SwipeItems Mode="Execute">
+                                        <SwipeItem Invoked="SwipeItem_Invoked" CommandParameter="{Binding .}"/>
+                                    </SwipeItems>
+                                </SwipeView.LeftItems>
+
+                                <SwipeView.RightItems>
+                                    <SwipeItems Mode="Execute">
+                                        <SwipeItem Invoked="SwipeItem_Invoked_1" CommandParameter="{Binding .}"/>
+                                    </SwipeItems>
+                                </SwipeView.RightItems>
+
+                                <Grid RowDefinitions="50" ColumnDefinitions="*, *, *, *">
+                                    <Label VerticalOptions="Center" Text="{Binding DisplayStatus}"/>
+                                    <Label VerticalOptions="Center" Grid.Column="1" Text="{Binding Date}"/>
+                                    <Label VerticalOptions="Center" Grid.Column="2" Text="{Binding Price}"/>
+                                    <Label VerticalOptions="Center" Grid.Column="3" Text="{Binding Rule}"/>
+                                </Grid>
+                            </SwipeView>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label Text="Listing Pricing"/>
+
+            <Frame HeightRequest="600" BorderColor="Black" BackgroundColor="Transparent">
+                <StackLayout VerticalOptions="CenterAndExpand">
+                    <Grid RowDefinitions="20, 50">
+                        <Label VerticalOptions="Center" Text="From: "/>
+                        <Label VerticalOptions="Center" Grid.Column="1" Text="To: "/>
+
+                        <DatePicker x:Name="startDatePicker" Grid.Row="1"/>
+                        <DatePicker x:Name="endDatePicker" Grid.Row="1" Grid.Column="1"/>
+                    </Grid>
+
+                    <Grid RowDefinitions="50, 50, 50" ColumnDefinitions="1.5*, *, 2*">
+                        <Label Text="On the Weekend: " VerticalOptions="Center"/>
+                        <Entry x:Name="weekendPriceEntry" Keyboard="Numeric" Grid.Column="1"/>
+                        <Picker x:Name="weekendRulePicker" Title="Select the rule" Grid.Column="2"/>
+
+                        <Label Grid.Row="1" Text="On the holidays: " VerticalOptions="Center"/>
+                        <Entry x:Name="holidayPriceEntry" Keyboard="Numeric" Grid.Column="1" Grid.Row="1"/>
+                        <Picker x:Name="holidayRulePicker" Grid.Row="1" Title="Select the rule" Grid.Column="2"/>
+
+                        <Label Grid.Row="2" Text="On other days: " VerticalOptions="Center"/>
+                        <Entry x:Name="otherDayPriceEntry" Keyboard="Numeric" Grid.Row="2" Grid.Column="1"/>
+                        <Picker x:Name="otherDayRulePicker" Grid.Row="2" Title="Select the rule" Grid.Column="2"/>
+                    </Grid>
+
+                    <Button Clicked="Button_Clicked_1" WidthRequest="150" Text="Set Price" HorizontalOptions="End"/>
+                </StackLayout>
+            </Frame>
+
+            <Button Clicked="Button_Clicked" Text="Back" VerticalOptions="EndAndExpand" HorizontalOptions="End"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

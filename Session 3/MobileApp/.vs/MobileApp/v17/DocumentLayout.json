@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\listingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\listingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\itempricemanagementpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\itempricemanagementpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\models\\additempricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\models\\additempricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\edititemprice.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\edititemprice.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\itempricemanagementpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\itempricemanagementpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\listingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\listingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\views\\edititemprice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\views\\edititemprice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\models\\itemprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\models\\itemprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|c:\\users\\simsh\\desktop\\training-praq-wsmb2024\\session 3\\mobileapp\\mobileapp\\mobileapp\\models\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39853952-3A24-422B-98F7-3372508166CC}|MobileApp\\MobileApp\\MobileApp.csproj|solutionrelative:mobileapp\\mobileapp\\models\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ListingPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\ListingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ListingPage.xaml.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\ListingPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:18:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\Listing.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Models\\Listing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:36:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemPrice.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\ItemPrice.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Models\\ItemPrice.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\ItemPrice.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Models\\ItemPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:33:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\Rule.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Models\\Rule.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\Rule.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Models\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:31:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditItemPrice.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\EditItemPrice.xaml.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\EditItemPrice.xaml.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\EditItemPrice.xaml.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\EditItemPrice.xaml.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:26:07.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditItemPrice.xaml",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\EditItemPrice.xaml",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\EditItemPrice.xaml",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\EditItemPrice.xaml",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\EditItemPrice.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T03:25:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemPriceManagementPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAcwI8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:19:07.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddItemPriceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\AddItemPriceDTO.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Models\\AddItemPriceDTO.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Models\\AddItemPriceDTO.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Models\\AddItemPriceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:59:17.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ListingPage.xaml",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\ListingPage.xaml",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ListingPage.xaml",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\ListingPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T03:47:08.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Services\\ApiService.cs",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Services\\ApiService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T03:16:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPriceManagementPage.xaml",
+              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml",
+              "RelativeDocumentMoniker": "MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml",
+              "ToolTip": "C:\\Users\\simsh\\Desktop\\Training-PraQ-WSMB2024\\Session 3\\MobileApp\\MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml",
+              "RelativeToolTip": "MobileApp\\MobileApp\\Views\\ItemPriceManagementPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T02:42:14.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
